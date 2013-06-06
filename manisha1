@@ -1,0 +1,71 @@
+    1  ls
+    2  sudo apt -get install git -core
+    3  sudo apt-get install git -core
+    4  git --version
+    5  git config --global user.name "jainmanisha"
+    6  git config --global user.email manishajn91@gmail.com
+    7  git config --list
+    8  curl -L https://get.rvm.io | bash -s stable --ruby
+    9  sudo apt-get install curl
+   10  rvm install 1.9.3
+   11  sudo apt-get install ruby-rvm
+   12  rvm install 1.9.3
+   13  curl -L https://get.rvm.io | bash -s stable --ruby
+   14  sudo apt-get --purge remove ruby-rvm
+   15  sudo rm -rf /usr/share/ruby-rvm /etc/rvmrc /etc/profile.d/rvm.sh
+   16  env | grep rvm
+   17  \curl -L https://get.rvm.io |    bash -s stable --ruby --autolibs=enable --auto-dotfiles
+   18  1234
+   19  history
+   20  history>>manisha
+   21  pwd
+   22  ls
+   23  rvm install 1.9.3
+   24  ruby --version
+   25  rvm install 1.9.3
+   26  rvm use 1.9.3
+   27  ruby --version
+   28  rvm install 1.9.3
+   29  rvm --default use ruby -1.9.3-p429
+   30  rvm --default use ruby-1.9.3-p429
+   31  rvm --default use ruby-1.9.3-p429
+   32  ruby --version
+   33  rvm rubygems latest
+   34  git clone git://github.com/imathis/octopress.git octopress
+   35  cd octopress 
+   36  ruby --version 
+   37  gem install bundler
+   38  bundle install
+   39  rake install
+   40  git remote show origin
+   41  git remote rm origin
+   42  git remote show origin
+   43  git remote show octopress
+   44  git remote add origin git@github.com:jainmanisha/jainmanisha.github.io.git
+   45  git remote show origin
+   46  git remote show origin
+   47  cd..
+   48  cd ..
+   49  cd ~/.ssh
+   50  ls
+   51  cd ..
+   52  ssh-keygen -t rsa -C "manishajn91@gmail.com"
+   53  cd ~/.ssh
+   54  history
+   55  ls
+   56  gedit id_rsa.pub
+   57  cd ..
+   58  cd octopress
+   59  rake setup_github_pages
+   60  git remote show origin
+   61  rake generate
+   62  git branch
+   63  git branch -m master source
+   64  git branch
+   65  rake generate
+   66  rake deploy
+   67  git add .
+   68  git commit -m 'manisha'
+   69  git push origin source
+   70  rake deploy
+   71  history>>manisha1
