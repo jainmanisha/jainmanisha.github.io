@@ -1,7 +1,9 @@
+
+rake deploy
+rake new_post["iPhone6"]
 rake generate
-git init
-git add .
-git commit -m "hello"
+ git add .
+ git commit -am "flowers" 
 git push origin source
 rake deploy
 
