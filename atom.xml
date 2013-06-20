@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://jainmanisha.github.io/atom.xml" rel="self"/>
   <link href="http://jainmanisha.github.io/"/>
-  <updated>2013-06-07T16:38:10+05:30</updated>
+  <updated>2013-06-20T12:54:56+05:30</updated>
   <id>http://jainmanisha.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -18,7 +18,14 @@
     <link href="http://jainmanisha.github.io/blog/2013/06/07/iphone6/"/>
     <updated>2013-06-07T13:23:00+05:30</updated>
     <id>http://jainmanisha.github.io/blog/2013/06/07/iphone6</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<p><html>
+<body></p>
+
+<h1>This New iPhone 6 Concept Comes With A 4.8-Inch Display And 3D Camera</h1>
+
+
+<p></body>
+</html></p>
 ]]></content>
   </entry>
   
