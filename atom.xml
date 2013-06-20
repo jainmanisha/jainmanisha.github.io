@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://jainmanisha.github.io/atom.xml" rel="self"/>
   <link href="http://jainmanisha.github.io/"/>
-  <updated>2013-06-20T12:54:56+05:30</updated>
+  <updated>2013-06-20T13:21:45+05:30</updated>
   <id>http://jainmanisha.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -21,10 +21,10 @@
     <content type="html"><![CDATA[<p><html>
 <body></p>
 
-<h1>This New iPhone 6 Concept Comes With A 4.8-Inch Display And 3D Camera</h1>
-
-
-<p></body>
+<p><h2>The New iPhone 6 Concept Comes With A 4.8-Inch Display And 3D Camera</h1>
+<p>Today we’ve got a new iPhone 6 concept video that dreams of an iPhone with an edge-to-edge 4.8-inch curved display, along with an 8 megapixel 3D camera. We’ve yet to see 3D implementation in smartphones take off, which is probably a good thing.
+</p>
+</body>
 </html></p>
 ]]></content>
   </entry>
